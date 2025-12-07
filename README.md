@@ -218,23 +218,3 @@ All visualizations update instantly.
 * CSV loading resets simulation and continues from last x-value
 * Works with very large datasets (recommended max ≈ 50,000 points)
 
----
-
-## **✔ Done**
-
-This README provides everything you need to:
-
-* Build
-* Run
-* Load data
-* Configure ImGui + ImPlot
-* Understand the project’s structure
-
-If you want, I can also create:
-
-✅ A **GIF demonstration**
-✅ A **wiki-style documentation**
-✅ A **YouTube-style demo script**
-✅ A **release build packaging guide** (EXE + DLLs)
-
-Just tell me!
